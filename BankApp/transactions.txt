@@ -1,0 +1,5 @@
+2024-11-25 08:40:55.414426, Deposit, 1000.0, , , Account 437015 deposited 1000.0 ZAR
+2024-11-25 08:41:03.220792, Withdrawal, 100.0, , , Account 437015 withdrew 100.0 ZAR
+2024-11-25 08:48:09.093831, Deposit, 5000.0, , , Account 575725 deposited 5000.0 ZAR
+2024-11-25 09:12:53.826623, Deposit, 100.0, , , Account 437015 deposited 100.0 ZAR
+2024-11-25 09:13:00.226572, Withdrawal, 50.0, , , Account 437015 withdrew 50.0 ZAR

@@ -1,0 +1,9 @@
+2024-11-25 02:12:48.822260, Deposit, 500.0, , , Account 200182 deposited 500.0 ZAR
+2024-11-25 02:13:00.038558, Withdrawal, 100.0, , , Account 200182 withdrew 100.0 ZAR
+2024-11-25 03:01:33.774536, Deposit, 500.0, , , Account 200182 deposited 500.0 ZAR
+2024-11-25 03:01:52.391290, Withdrawal, 70.0, , , Account 200182 withdrew 70.0 ZAR
+2024-11-25 03:56:02.712300, Deposit, 100.0, , , Account 200182 deposited 100.0 ZAR
+2024-11-25 03:59:55.023469, Deposit, 5000.0, , , Account 176209 deposited 5000.0 ZAR
+2024-11-25 04:00:06.139083, Deposit, 100.0, , , Account 176209 deposited 100.0 ZAR
+2024-11-25 04:00:15.279937, Withdrawal, 50.0, , , Account 176209 withdrew 50.0 ZAR
+2024-11-25 04:12:44.264601, Deposit, 100.0, , , Account 200182 deposited 100.0 ZAR
